@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.fgorefgore719_creator.twa",
+        "sha256_cert_fingerprints": ["31:9C:83:50:18:B4:81:46:B3:57:B2:76:41:F8:2B:7A:A9:B2:D0:AA:44:8C:20:91:93:74:6D:C4:09:6B:31:97"]
+      }
+    }]
